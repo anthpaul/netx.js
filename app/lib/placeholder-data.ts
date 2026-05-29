@@ -15,7 +15,7 @@ const customers = [
     name: 'Evil Rabbit',
     email: 'evil@rabbit.com',
     image_url: '/customers/evil-rabbit.png',
-  },
+  }, 
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
     name: 'Delba de Oliveira',
@@ -145,3 +145,4 @@ const revenue = [
 ];
 
 export { users, customers, invoices, revenue };
+
